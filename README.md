@@ -13,7 +13,7 @@ Daily used git commands archive (**PRs welcome**)
 
     Example:
 
-    ![image](/src/gitignore.png)
+    ![image](/src/Screenshot.png)
 
 - **Add a file**
 
