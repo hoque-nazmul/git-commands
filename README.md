@@ -1,12 +1,12 @@
 # Git commands
 
-Daily used git commands archive (**PRs welcome**)
+Most Common Git Commands
 
-- **Initialize git repository**
+- **Init Git Repo**
 
   `git init`
 
-- **Add files/folder into `.gitignore`**
+- **Add files or folder into `.gitignore`**
 
   - Create a `.gitignore` file
   - Add file name or folder name into there
